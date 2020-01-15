@@ -1,4 +1,4 @@
-# FromAzure
+# FromAzureDevOps
 
 This is a practice code which I have been creating from 2016. This code is also being hosted on private Azure DevOps repository (previously VSTS, just like TFS but hosted on Microsoft cloud). Choosing the share some of the projects created and worked upon during learning to code and going through various concepts of C# .NET programming and Design Patterns involved in it.
 
