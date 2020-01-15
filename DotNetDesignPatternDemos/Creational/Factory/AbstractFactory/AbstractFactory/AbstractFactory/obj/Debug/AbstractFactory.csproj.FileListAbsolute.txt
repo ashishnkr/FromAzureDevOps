@@ -1,0 +1,7 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Creational\Factory\AbstractFactory\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+D:\VSWorkspace\DotNetDesignPatternDemos\Creational\Factory\AbstractFactory\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Creational\Factory\AbstractFactory\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Creational\Factory\AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Creational\Factory\AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Creational\Factory\AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Creational\Factory\AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csprojAssemblyReference.cache

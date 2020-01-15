@@ -1,0 +1,6 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Decorator\CodeBuilder\CodeBuilder\bin\Debug\CodeBuilder.exe.config
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Decorator\CodeBuilder\CodeBuilder\bin\Debug\CodeBuilder.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Decorator\CodeBuilder\CodeBuilder\bin\Debug\CodeBuilder.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Decorator\CodeBuilder\CodeBuilder\obj\Debug\CodeBuilder.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Decorator\CodeBuilder\CodeBuilder\obj\Debug\CodeBuilder.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Decorator\CodeBuilder\CodeBuilder\obj\Debug\CodeBuilder.pdb

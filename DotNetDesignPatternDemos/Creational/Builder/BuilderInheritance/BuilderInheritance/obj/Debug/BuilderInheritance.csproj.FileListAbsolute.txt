@@ -1,0 +1,7 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Creational\Builder\BuilderInheritance\BuilderInheritance\obj\Debug\BuilderInheritance.csprojAssemblyReference.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Creational\Builder\BuilderInheritance\BuilderInheritance\obj\Debug\BuilderInheritance.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Creational\Builder\BuilderInheritance\BuilderInheritance\bin\Debug\BuilderInheritance.exe.config
+D:\VSWorkspace\DotNetDesignPatternDemos\Creational\Builder\BuilderInheritance\BuilderInheritance\bin\Debug\BuilderInheritance.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Creational\Builder\BuilderInheritance\BuilderInheritance\bin\Debug\BuilderInheritance.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Creational\Builder\BuilderInheritance\BuilderInheritance\obj\Debug\BuilderInheritance.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Creational\Builder\BuilderInheritance\BuilderInheritance\obj\Debug\BuilderInheritance.pdb

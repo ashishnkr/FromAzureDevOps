@@ -1,0 +1,10 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\State\DictionaryState\DictionaryState\bin\Debug\DictionaryState.exe.config
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\State\DictionaryState\DictionaryState\bin\Debug\DictionaryState.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\State\DictionaryState\DictionaryState\bin\Debug\DictionaryState.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\State\DictionaryState\DictionaryState\bin\Debug\System.ValueTuple.dll
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\State\DictionaryState\DictionaryState\bin\Debug\System.ValueTuple.xml
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\State\DictionaryState\DictionaryState\obj\Debug\DictionaryState.csprojAssemblyReference.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\State\DictionaryState\DictionaryState\obj\Debug\DictionaryState.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\State\DictionaryState\DictionaryState\obj\Debug\DictionaryState.csproj.CopyComplete
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\State\DictionaryState\DictionaryState\obj\Debug\DictionaryState.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\State\DictionaryState\DictionaryState\obj\Debug\DictionaryState.pdb

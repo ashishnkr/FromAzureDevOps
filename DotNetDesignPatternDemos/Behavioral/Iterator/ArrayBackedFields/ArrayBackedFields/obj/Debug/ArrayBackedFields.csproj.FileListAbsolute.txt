@@ -1,0 +1,7 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Iterator\ArrayBackedFields\ArrayBackedFields\bin\Debug\ArrayBackedFields.exe.config
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Iterator\ArrayBackedFields\ArrayBackedFields\bin\Debug\ArrayBackedFields.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Iterator\ArrayBackedFields\ArrayBackedFields\bin\Debug\ArrayBackedFields.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Iterator\ArrayBackedFields\ArrayBackedFields\obj\Debug\ArrayBackedFields.csprojAssemblyReference.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Iterator\ArrayBackedFields\ArrayBackedFields\obj\Debug\ArrayBackedFields.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Iterator\ArrayBackedFields\ArrayBackedFields\obj\Debug\ArrayBackedFields.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Iterator\ArrayBackedFields\ArrayBackedFields\obj\Debug\ArrayBackedFields.pdb

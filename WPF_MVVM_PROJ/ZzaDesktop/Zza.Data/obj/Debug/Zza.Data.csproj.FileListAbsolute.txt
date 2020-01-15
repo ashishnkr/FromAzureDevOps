@@ -1,0 +1,12 @@
+D:\VSWorkspace\wpf-mvvm-in-depth\6-wpf-mvvm-in-depth-m6-exercise-files\demos\after\ZzaDesktop\Zza.Data\bin\Debug\Zza.Data.dll.config
+D:\VSWorkspace\wpf-mvvm-in-depth\6-wpf-mvvm-in-depth-m6-exercise-files\demos\after\ZzaDesktop\Zza.Data\bin\Debug\Zza.Data.dll
+D:\VSWorkspace\wpf-mvvm-in-depth\6-wpf-mvvm-in-depth-m6-exercise-files\demos\after\ZzaDesktop\Zza.Data\bin\Debug\Zza.Data.pdb
+D:\VSWorkspace\wpf-mvvm-in-depth\6-wpf-mvvm-in-depth-m6-exercise-files\demos\after\ZzaDesktop\Zza.Data\bin\Debug\EntityFramework.dll
+D:\VSWorkspace\wpf-mvvm-in-depth\6-wpf-mvvm-in-depth-m6-exercise-files\demos\after\ZzaDesktop\Zza.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\VSWorkspace\wpf-mvvm-in-depth\6-wpf-mvvm-in-depth-m6-exercise-files\demos\after\ZzaDesktop\Zza.Data\bin\Debug\EntityFramework.xml
+D:\VSWorkspace\wpf-mvvm-in-depth\6-wpf-mvvm-in-depth-m6-exercise-files\demos\after\ZzaDesktop\Zza.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\VSWorkspace\wpf-mvvm-in-depth\6-wpf-mvvm-in-depth-m6-exercise-files\demos\after\ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.csprojAssemblyReference.cache
+D:\VSWorkspace\wpf-mvvm-in-depth\6-wpf-mvvm-in-depth-m6-exercise-files\demos\after\ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\wpf-mvvm-in-depth\6-wpf-mvvm-in-depth-m6-exercise-files\demos\after\ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.csproj.CopyComplete
+D:\VSWorkspace\wpf-mvvm-in-depth\6-wpf-mvvm-in-depth-m6-exercise-files\demos\after\ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.dll
+D:\VSWorkspace\wpf-mvvm-in-depth\6-wpf-mvvm-in-depth-m6-exercise-files\demos\after\ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.pdb

@@ -1,0 +1,7 @@
+D:\VSWorkspace\SimpleRIP\SimpleRIP\bin\Debug\SimpleRIP.exe.config
+D:\VSWorkspace\SimpleRIP\SimpleRIP\bin\Debug\SimpleRIP.exe
+D:\VSWorkspace\SimpleRIP\SimpleRIP\bin\Debug\SimpleRIP.pdb
+D:\VSWorkspace\SimpleRIP\SimpleRIP\obj\Debug\SimpleRIP.csprojAssemblyReference.cache
+D:\VSWorkspace\SimpleRIP\SimpleRIP\obj\Debug\SimpleRIP.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\SimpleRIP\SimpleRIP\obj\Debug\SimpleRIP.exe
+D:\VSWorkspace\SimpleRIP\SimpleRIP\obj\Debug\SimpleRIP.pdb

@@ -1,0 +1,6 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Flyweight\TextFormatting\TextFormatting\bin\Debug\TextFormatting.exe.config
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Flyweight\TextFormatting\TextFormatting\bin\Debug\TextFormatting.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Flyweight\TextFormatting\TextFormatting\bin\Debug\TextFormatting.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Flyweight\TextFormatting\TextFormatting\obj\Debug\TextFormatting.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Flyweight\TextFormatting\TextFormatting\obj\Debug\TextFormatting.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Flyweight\TextFormatting\TextFormatting\obj\Debug\TextFormatting.pdb

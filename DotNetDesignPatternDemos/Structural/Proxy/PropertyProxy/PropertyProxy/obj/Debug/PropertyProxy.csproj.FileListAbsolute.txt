@@ -1,0 +1,7 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Proxy\PropertyProxy\PropertyProxy\bin\Debug\PropertyProxy.exe.config
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Proxy\PropertyProxy\PropertyProxy\bin\Debug\PropertyProxy.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Proxy\PropertyProxy\PropertyProxy\bin\Debug\PropertyProxy.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Proxy\PropertyProxy\PropertyProxy\obj\Debug\PropertyProxy.csprojAssemblyReference.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Proxy\PropertyProxy\PropertyProxy\obj\Debug\PropertyProxy.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Proxy\PropertyProxy\PropertyProxy\obj\Debug\PropertyProxy.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Proxy\PropertyProxy\PropertyProxy\obj\Debug\PropertyProxy.pdb

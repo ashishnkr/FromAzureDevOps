@@ -1,0 +1,7 @@
+D:\VSWorkspace\LambdaTutorial\LambdaTutorial\bin\Debug\LambdaTutorial.exe.config
+D:\VSWorkspace\LambdaTutorial\LambdaTutorial\bin\Debug\LambdaTutorial.exe
+D:\VSWorkspace\LambdaTutorial\LambdaTutorial\bin\Debug\LambdaTutorial.pdb
+D:\VSWorkspace\LambdaTutorial\LambdaTutorial\obj\Debug\LambdaTutorial.csprojAssemblyReference.cache
+D:\VSWorkspace\LambdaTutorial\LambdaTutorial\obj\Debug\LambdaTutorial.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\LambdaTutorial\LambdaTutorial\obj\Debug\LambdaTutorial.exe
+D:\VSWorkspace\LambdaTutorial\LambdaTutorial\obj\Debug\LambdaTutorial.pdb

@@ -1,0 +1,4 @@
+ZzaDashboard is the starter project - files required for the course to start with.
+XAML and pattern like event-subscriber are kind of pre-requisites.
+
+ZzaDesktop is the final project after completion of the course.

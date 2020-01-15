@@ -1,0 +1,7 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Strategy\Dynamic\Dynamic\bin\Debug\Dynamic.exe.config
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Strategy\Dynamic\Dynamic\bin\Debug\Dynamic.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Strategy\Dynamic\Dynamic\bin\Debug\Dynamic.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Strategy\Dynamic\Dynamic\obj\Debug\Dynamic.csprojAssemblyReference.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Strategy\Dynamic\Dynamic\obj\Debug\Dynamic.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Strategy\Dynamic\Dynamic\obj\Debug\Dynamic.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Strategy\Dynamic\Dynamic\obj\Debug\Dynamic.pdb

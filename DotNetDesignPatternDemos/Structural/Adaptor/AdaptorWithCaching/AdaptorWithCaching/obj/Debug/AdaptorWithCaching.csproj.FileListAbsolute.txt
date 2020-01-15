@@ -1,0 +1,16 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Adaptor\AdaptorWithCaching\AdaptorWithCaching\bin\Debug\AdaptorWithCaching.exe.config
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Adaptor\AdaptorWithCaching\AdaptorWithCaching\bin\Debug\AdaptorWithCaching.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Adaptor\AdaptorWithCaching\AdaptorWithCaching\bin\Debug\AdaptorWithCaching.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Adaptor\AdaptorWithCaching\AdaptorWithCaching\bin\Debug\MoreLinq.dll
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Adaptor\AdaptorWithCaching\AdaptorWithCaching\bin\Debug\nunit.framework.dll
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Adaptor\AdaptorWithCaching\AdaptorWithCaching\bin\Debug\System.ValueTuple.dll
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Adaptor\AdaptorWithCaching\AdaptorWithCaching\bin\Debug\MoreLinq.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Adaptor\AdaptorWithCaching\AdaptorWithCaching\bin\Debug\MoreLinq.xml
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Adaptor\AdaptorWithCaching\AdaptorWithCaching\bin\Debug\nunit.framework.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Adaptor\AdaptorWithCaching\AdaptorWithCaching\bin\Debug\nunit.framework.xml
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Adaptor\AdaptorWithCaching\AdaptorWithCaching\bin\Debug\System.ValueTuple.xml
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Adaptor\AdaptorWithCaching\AdaptorWithCaching\obj\Debug\AdaptorWithCaching.csprojAssemblyReference.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Adaptor\AdaptorWithCaching\AdaptorWithCaching\obj\Debug\AdaptorWithCaching.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Adaptor\AdaptorWithCaching\AdaptorWithCaching\obj\Debug\AdaptorWithCaching.csproj.CopyComplete
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Adaptor\AdaptorWithCaching\AdaptorWithCaching\obj\Debug\AdaptorWithCaching.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Adaptor\AdaptorWithCaching\AdaptorWithCaching\obj\Debug\AdaptorWithCaching.pdb

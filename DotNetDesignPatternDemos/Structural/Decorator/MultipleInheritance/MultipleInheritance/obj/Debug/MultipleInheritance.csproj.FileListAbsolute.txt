@@ -1,0 +1,1 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Decorator\MultipleInheritance\MultipleInheritance\obj\Debug\MultipleInheritance.csproj.CoreCompileInputs.cache

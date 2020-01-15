@@ -1,0 +1,7 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Bonus\MayBeMonad\MayBeMonad\MayBeMonad\bin\Debug\MayBeMonad.exe.config
+D:\VSWorkspace\DotNetDesignPatternDemos\Bonus\MayBeMonad\MayBeMonad\MayBeMonad\bin\Debug\MayBeMonad.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Bonus\MayBeMonad\MayBeMonad\MayBeMonad\bin\Debug\MayBeMonad.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Bonus\MayBeMonad\MayBeMonad\MayBeMonad\obj\Debug\MayBeMonad.csprojAssemblyReference.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Bonus\MayBeMonad\MayBeMonad\MayBeMonad\obj\Debug\MayBeMonad.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Bonus\MayBeMonad\MayBeMonad\MayBeMonad\obj\Debug\MayBeMonad.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Bonus\MayBeMonad\MayBeMonad\MayBeMonad\obj\Debug\MayBeMonad.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryState", "DictionaryState\DictionaryState.csproj", "{A1ACE31F-EE19-4CBB-9AC6-5FC1CF4C925C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1ACE31F-EE19-4CBB-9AC6-5FC1CF4C925C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1ACE31F-EE19-4CBB-9AC6-5FC1CF4C925C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1ACE31F-EE19-4CBB-9AC6-5FC1CF4C925C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1ACE31F-EE19-4CBB-9AC6-5FC1CF4C925C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCB19F62-995D-45D1-9BB9-4693B90F7EF1}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://ashishworkspace.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DictionaryState\\DictionaryState.csproj
+		SccProjectName1 = DictionaryState
+		SccLocalPath1 = DictionaryState
+	EndGlobalSection
+EndGlobal

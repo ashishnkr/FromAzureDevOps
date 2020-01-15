@@ -1,0 +1,6 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Memento\MementoToken\MementoToken\bin\Debug\MementoToken.exe.config
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Memento\MementoToken\MementoToken\bin\Debug\MementoToken.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Memento\MementoToken\MementoToken\bin\Debug\MementoToken.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Memento\MementoToken\MementoToken\obj\Debug\MementoToken.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Memento\MementoToken\MementoToken\obj\Debug\MementoToken.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Memento\MementoToken\MementoToken\obj\Debug\MementoToken.pdb

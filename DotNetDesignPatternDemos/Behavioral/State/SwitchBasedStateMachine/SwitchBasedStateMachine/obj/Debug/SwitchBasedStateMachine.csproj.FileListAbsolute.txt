@@ -1,0 +1,6 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\State\SwitchBasedStateMachine\SwitchBasedStateMachine\bin\Debug\SwitchBasedStateMachine.exe.config
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\State\SwitchBasedStateMachine\SwitchBasedStateMachine\bin\Debug\SwitchBasedStateMachine.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\State\SwitchBasedStateMachine\SwitchBasedStateMachine\bin\Debug\SwitchBasedStateMachine.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\State\SwitchBasedStateMachine\SwitchBasedStateMachine\obj\Debug\SwitchBasedStateMachine.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\State\SwitchBasedStateMachine\SwitchBasedStateMachine\obj\Debug\SwitchBasedStateMachine.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\State\SwitchBasedStateMachine\SwitchBasedStateMachine\obj\Debug\SwitchBasedStateMachine.pdb

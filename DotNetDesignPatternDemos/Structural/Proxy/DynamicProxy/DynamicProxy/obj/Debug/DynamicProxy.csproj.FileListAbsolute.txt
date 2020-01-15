@@ -1,0 +1,10 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Proxy\DynamicProxy\DynamicProxy\bin\Debug\DynamicProxy.exe.config
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Proxy\DynamicProxy\DynamicProxy\bin\Debug\DynamicProxy.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Proxy\DynamicProxy\DynamicProxy\bin\Debug\DynamicProxy.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Proxy\DynamicProxy\DynamicProxy\bin\Debug\Dynamitey.dll
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Proxy\DynamicProxy\DynamicProxy\bin\Debug\ImpromptuInterface.dll
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Proxy\DynamicProxy\DynamicProxy\obj\Debug\DynamicProxy.csprojAssemblyReference.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Proxy\DynamicProxy\DynamicProxy\obj\Debug\DynamicProxy.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Proxy\DynamicProxy\DynamicProxy\obj\Debug\DynamicProxy.csproj.CopyComplete
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Proxy\DynamicProxy\DynamicProxy\obj\Debug\DynamicProxy.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Proxy\DynamicProxy\DynamicProxy\obj\Debug\DynamicProxy.pdb

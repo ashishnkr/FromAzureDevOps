@@ -1,0 +1,6 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Strategy\Static\Static\bin\Debug\Static.exe.config
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Strategy\Static\Static\bin\Debug\Static.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Strategy\Static\Static\bin\Debug\Static.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Strategy\Static\Static\obj\Debug\Static.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Strategy\Static\Static\obj\Debug\Static.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Strategy\Static\Static\obj\Debug\Static.pdb

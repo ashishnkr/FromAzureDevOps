@@ -1,0 +1,9 @@
+D:\VSWorkspace\Algorithms\TwoSum\TwoSum\bin\Debug\netstandard2.0\TwoSum.deps.json
+D:\VSWorkspace\Algorithms\TwoSum\TwoSum\bin\Debug\netstandard2.0\TwoSum.dll
+D:\VSWorkspace\Algorithms\TwoSum\TwoSum\bin\Debug\netstandard2.0\TwoSum.pdb
+D:\VSWorkspace\Algorithms\TwoSum\TwoSum\obj\Debug\netstandard2.0\TwoSum.csprojAssemblyReference.cache
+D:\VSWorkspace\Algorithms\TwoSum\TwoSum\obj\Debug\netstandard2.0\TwoSum.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\Algorithms\TwoSum\TwoSum\obj\Debug\netstandard2.0\TwoSum.AssemblyInfoInputs.cache
+D:\VSWorkspace\Algorithms\TwoSum\TwoSum\obj\Debug\netstandard2.0\TwoSum.AssemblyInfo.cs
+D:\VSWorkspace\Algorithms\TwoSum\TwoSum\obj\Debug\netstandard2.0\TwoSum.dll
+D:\VSWorkspace\Algorithms\TwoSum\TwoSum\obj\Debug\netstandard2.0\TwoSum.pdb

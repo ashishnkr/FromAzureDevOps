@@ -1,0 +1,10 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\State\Stateless\Stateless\bin\Debug\Stateless.exe.config
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\State\Stateless\Stateless\bin\Debug\Stateless.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\State\Stateless\Stateless\bin\Debug\Stateless.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\State\Stateless\Stateless\bin\Debug\Stateless.dll
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\State\Stateless\Stateless\bin\Debug\Stateless.xml
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\State\Stateless\Stateless\obj\Debug\Stateless.csprojAssemblyReference.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\State\Stateless\Stateless\obj\Debug\Stateless.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\State\Stateless\Stateless\obj\Debug\Stateless.csproj.CopyComplete
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\State\Stateless\Stateless\obj\Debug\Stateless.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\State\Stateless\Stateless\obj\Debug\Stateless.pdb

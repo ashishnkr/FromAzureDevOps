@@ -1,0 +1,6 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Visitor\Classic\Classic\bin\Debug\Classic.exe.config
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Visitor\Classic\Classic\bin\Debug\Classic.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Visitor\Classic\Classic\bin\Debug\Classic.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Visitor\Classic\Classic\obj\Debug\Classic.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Visitor\Classic\Classic\obj\Debug\Classic.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Visitor\Classic\Classic\obj\Debug\Classic.pdb

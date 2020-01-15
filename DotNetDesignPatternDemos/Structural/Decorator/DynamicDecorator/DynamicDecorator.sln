@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicDecorator", "DynamicDecorator\DynamicDecorator.csproj", "{58CA4862-BE43-47E7-98A1-7E97DAA44C92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58CA4862-BE43-47E7-98A1-7E97DAA44C92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58CA4862-BE43-47E7-98A1-7E97DAA44C92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58CA4862-BE43-47E7-98A1-7E97DAA44C92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58CA4862-BE43-47E7-98A1-7E97DAA44C92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E923B7CE-559C-4309-9A8B-391BD08FD49C}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://ashishworkspace.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DynamicDecorator\\DynamicDecorator.csproj
+		SccProjectName1 = DynamicDecorator
+		SccLocalPath1 = DynamicDecorator
+	EndGlobalSection
+EndGlobal

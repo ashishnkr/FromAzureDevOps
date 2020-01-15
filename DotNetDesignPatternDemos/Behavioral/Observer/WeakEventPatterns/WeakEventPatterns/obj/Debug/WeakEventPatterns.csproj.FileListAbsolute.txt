@@ -1,0 +1,7 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Observer\WeakEventPatterns\WeakEventPatterns\bin\Debug\WeakEventPatterns.exe.config
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Observer\WeakEventPatterns\WeakEventPatterns\bin\Debug\WeakEventPatterns.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Observer\WeakEventPatterns\WeakEventPatterns\bin\Debug\WeakEventPatterns.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Observer\WeakEventPatterns\WeakEventPatterns\obj\Debug\WeakEventPatterns.csprojAssemblyReference.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Observer\WeakEventPatterns\WeakEventPatterns\obj\Debug\WeakEventPatterns.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Observer\WeakEventPatterns\WeakEventPatterns\obj\Debug\WeakEventPatterns.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Observer\WeakEventPatterns\WeakEventPatterns\obj\Debug\WeakEventPatterns.pdb

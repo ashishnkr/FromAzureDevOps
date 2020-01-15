@@ -1,0 +1,6 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Composite\NeuralNetworks\NeuralNetworks\bin\Debug\NeuralNetworks.exe.config
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Composite\NeuralNetworks\NeuralNetworks\bin\Debug\NeuralNetworks.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Composite\NeuralNetworks\NeuralNetworks\bin\Debug\NeuralNetworks.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Composite\NeuralNetworks\NeuralNetworks\obj\Debug\NeuralNetworks.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Composite\NeuralNetworks\NeuralNetworks\obj\Debug\NeuralNetworks.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Composite\NeuralNetworks\NeuralNetworks\obj\Debug\NeuralNetworks.pdb

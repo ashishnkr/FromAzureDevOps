@@ -1,0 +1,7 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Command\Command\Command\bin\Debug\Command.exe.config
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Command\Command\Command\bin\Debug\Command.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Command\Command\Command\bin\Debug\Command.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Command\Command\Command\obj\Debug\Command.csprojAssemblyReference.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Command\Command\Command\obj\Debug\Command.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Command\Command\Command\obj\Debug\Command.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Command\Command\Command\obj\Debug\Command.pdb

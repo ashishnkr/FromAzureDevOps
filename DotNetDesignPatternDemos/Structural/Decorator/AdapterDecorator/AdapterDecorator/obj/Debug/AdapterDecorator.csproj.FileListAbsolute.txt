@@ -1,0 +1,6 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Decorator\AdapterDecorator\AdapterDecorator\bin\Debug\AdapterDecorator.exe.config
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Decorator\AdapterDecorator\AdapterDecorator\bin\Debug\AdapterDecorator.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Decorator\AdapterDecorator\AdapterDecorator\bin\Debug\AdapterDecorator.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Decorator\AdapterDecorator\AdapterDecorator\obj\Debug\AdapterDecorator.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Decorator\AdapterDecorator\AdapterDecorator\obj\Debug\AdapterDecorator.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Decorator\AdapterDecorator\AdapterDecorator\obj\Debug\AdapterDecorator.pdb

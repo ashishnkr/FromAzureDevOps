@@ -1,0 +1,6 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Memento\MementoTokenUndo\MementoTokenUndo\bin\Debug\MementoTokenUndo.exe.config
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Memento\MementoTokenUndo\MementoTokenUndo\bin\Debug\MementoTokenUndo.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Memento\MementoTokenUndo\MementoTokenUndo\bin\Debug\MementoTokenUndo.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Memento\MementoTokenUndo\MementoTokenUndo\obj\Debug\MementoTokenUndo.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Memento\MementoTokenUndo\MementoTokenUndo\obj\Debug\MementoTokenUndo.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Memento\MementoTokenUndo\MementoTokenUndo\obj\Debug\MementoTokenUndo.pdb

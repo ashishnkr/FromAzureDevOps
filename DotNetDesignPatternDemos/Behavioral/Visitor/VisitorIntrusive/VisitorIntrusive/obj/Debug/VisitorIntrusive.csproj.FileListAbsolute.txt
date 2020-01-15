@@ -1,0 +1,7 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Visitor\VisitorIntrusive\VisitorIntrusive\bin\Debug\VisitorIntrusive.exe.config
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Visitor\VisitorIntrusive\VisitorIntrusive\bin\Debug\VisitorIntrusive.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Visitor\VisitorIntrusive\VisitorIntrusive\bin\Debug\VisitorIntrusive.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Visitor\VisitorIntrusive\VisitorIntrusive\obj\Debug\VisitorIntrusive.csprojAssemblyReference.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Visitor\VisitorIntrusive\VisitorIntrusive\obj\Debug\VisitorIntrusive.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Visitor\VisitorIntrusive\VisitorIntrusive\obj\Debug\VisitorIntrusive.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Visitor\VisitorIntrusive\VisitorIntrusive\obj\Debug\VisitorIntrusive.pdb

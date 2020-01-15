@@ -1,0 +1,7 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Mediator\ChatRoom\ChatRoom\bin\Debug\ChatRoom.exe.config
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Mediator\ChatRoom\ChatRoom\bin\Debug\ChatRoom.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Mediator\ChatRoom\ChatRoom\bin\Debug\ChatRoom.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Mediator\ChatRoom\ChatRoom\obj\Debug\ChatRoom.csprojAssemblyReference.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Mediator\ChatRoom\ChatRoom\obj\Debug\ChatRoom.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Mediator\ChatRoom\ChatRoom\obj\Debug\ChatRoom.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Mediator\ChatRoom\ChatRoom\obj\Debug\ChatRoom.pdb

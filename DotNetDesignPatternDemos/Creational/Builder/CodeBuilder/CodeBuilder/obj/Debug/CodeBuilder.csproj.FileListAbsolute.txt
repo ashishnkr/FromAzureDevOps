@@ -1,0 +1,7 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Creational\Builder\CodeBuilder\CodeBuilder\bin\Debug\CodeBuilder.exe.config
+D:\VSWorkspace\DotNetDesignPatternDemos\Creational\Builder\CodeBuilder\CodeBuilder\bin\Debug\CodeBuilder.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Creational\Builder\CodeBuilder\CodeBuilder\bin\Debug\CodeBuilder.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Creational\Builder\CodeBuilder\CodeBuilder\obj\Debug\CodeBuilder.csprojAssemblyReference.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Creational\Builder\CodeBuilder\CodeBuilder\obj\Debug\CodeBuilder.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Creational\Builder\CodeBuilder\CodeBuilder\obj\Debug\CodeBuilder.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Creational\Builder\CodeBuilder\CodeBuilder\obj\Debug\CodeBuilder.pdb

@@ -1,0 +1,7 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\TemplateMethod\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\TemplateMethod\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\TemplateMethod\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\TemplateMethod\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.csprojAssemblyReference.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\TemplateMethod\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\TemplateMethod\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\TemplateMethod\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.pdb

@@ -1,0 +1,11 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Adaptor\CodingExercise\CodingExercise\obj\Debug\CodingExercise.csprojAssemblyReference.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Adaptor\CodingExercise\CodingExercise\obj\Debug\CodingExercise.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Adaptor\CodingExercise\CodingExercise\bin\Debug\CodingExercise.exe.config
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Adaptor\CodingExercise\CodingExercise\bin\Debug\CodingExercise.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Adaptor\CodingExercise\CodingExercise\bin\Debug\CodingExercise.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Adaptor\CodingExercise\CodingExercise\bin\Debug\nunit.framework.dll
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Adaptor\CodingExercise\CodingExercise\bin\Debug\nunit.framework.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Adaptor\CodingExercise\CodingExercise\bin\Debug\nunit.framework.xml
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Adaptor\CodingExercise\CodingExercise\obj\Debug\CodingExercise.csproj.CopyComplete
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Adaptor\CodingExercise\CodingExercise\obj\Debug\CodingExercise.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Adaptor\CodingExercise\CodingExercise\obj\Debug\CodingExercise.pdb

@@ -1,0 +1,9 @@
+D:\VSWorkspace\Algorithms\CaesarCipher\CaesarCipher\bin\Debug\netstandard2.0\CaesarCipher.deps.json
+D:\VSWorkspace\Algorithms\CaesarCipher\CaesarCipher\bin\Debug\netstandard2.0\CaesarCipher.dll
+D:\VSWorkspace\Algorithms\CaesarCipher\CaesarCipher\bin\Debug\netstandard2.0\CaesarCipher.pdb
+D:\VSWorkspace\Algorithms\CaesarCipher\CaesarCipher\obj\Debug\netstandard2.0\CaesarCipher.csprojAssemblyReference.cache
+D:\VSWorkspace\Algorithms\CaesarCipher\CaesarCipher\obj\Debug\netstandard2.0\CaesarCipher.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\Algorithms\CaesarCipher\CaesarCipher\obj\Debug\netstandard2.0\CaesarCipher.AssemblyInfoInputs.cache
+D:\VSWorkspace\Algorithms\CaesarCipher\CaesarCipher\obj\Debug\netstandard2.0\CaesarCipher.AssemblyInfo.cs
+D:\VSWorkspace\Algorithms\CaesarCipher\CaesarCipher\obj\Debug\netstandard2.0\CaesarCipher.dll
+D:\VSWorkspace\Algorithms\CaesarCipher\CaesarCipher\obj\Debug\netstandard2.0\CaesarCipher.pdb

@@ -1,0 +1,7 @@
+D:\VSWorkspace\Extra\PassByValue\PassByValue\bin\Debug\PassByValue.exe.config
+D:\VSWorkspace\Extra\PassByValue\PassByValue\bin\Debug\PassByValue.exe
+D:\VSWorkspace\Extra\PassByValue\PassByValue\bin\Debug\PassByValue.pdb
+D:\VSWorkspace\Extra\PassByValue\PassByValue\obj\Debug\PassByValue.csprojAssemblyReference.cache
+D:\VSWorkspace\Extra\PassByValue\PassByValue\obj\Debug\PassByValue.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\Extra\PassByValue\PassByValue\obj\Debug\PassByValue.exe
+D:\VSWorkspace\Extra\PassByValue\PassByValue\obj\Debug\PassByValue.pdb

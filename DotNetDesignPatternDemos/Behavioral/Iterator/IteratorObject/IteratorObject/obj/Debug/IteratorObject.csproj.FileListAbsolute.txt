@@ -1,0 +1,7 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Iterator\IteratorObject\IteratorObject\bin\Debug\IteratorObject.exe.config
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Iterator\IteratorObject\IteratorObject\bin\Debug\IteratorObject.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Iterator\IteratorObject\IteratorObject\bin\Debug\IteratorObject.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Iterator\IteratorObject\IteratorObject\obj\Debug\IteratorObject.csprojAssemblyReference.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Iterator\IteratorObject\IteratorObject\obj\Debug\IteratorObject.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Iterator\IteratorObject\IteratorObject\obj\Debug\IteratorObject.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Iterator\IteratorObject\IteratorObject\obj\Debug\IteratorObject.pdb

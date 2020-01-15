@@ -1,0 +1,10 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Bridge\BridgePattern\BridgePattern\bin\Debug\BridgePattern.exe.config
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Bridge\BridgePattern\BridgePattern\bin\Debug\BridgePattern.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Bridge\BridgePattern\BridgePattern\bin\Debug\BridgePattern.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Bridge\BridgePattern\BridgePattern\bin\Debug\Autofac.dll
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Bridge\BridgePattern\BridgePattern\bin\Debug\Autofac.xml
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Bridge\BridgePattern\BridgePattern\obj\Debug\BridgePattern.csprojAssemblyReference.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Bridge\BridgePattern\BridgePattern\obj\Debug\BridgePattern.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Bridge\BridgePattern\BridgePattern\obj\Debug\BridgePattern.csproj.CopyComplete
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Bridge\BridgePattern\BridgePattern\obj\Debug\BridgePattern.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Bridge\BridgePattern\BridgePattern\obj\Debug\BridgePattern.pdb

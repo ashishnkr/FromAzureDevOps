@@ -1,0 +1,13 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Adaptor\AdaptorNoCaching\AdaptorNoCaching\bin\Debug\AdaptorNoCaching.exe.config
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Adaptor\AdaptorNoCaching\AdaptorNoCaching\bin\Debug\AdaptorNoCaching.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Adaptor\AdaptorNoCaching\AdaptorNoCaching\bin\Debug\AdaptorNoCaching.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Adaptor\AdaptorNoCaching\AdaptorNoCaching\bin\Debug\MoreLinq.dll
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Adaptor\AdaptorNoCaching\AdaptorNoCaching\bin\Debug\System.ValueTuple.dll
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Adaptor\AdaptorNoCaching\AdaptorNoCaching\bin\Debug\MoreLinq.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Adaptor\AdaptorNoCaching\AdaptorNoCaching\bin\Debug\MoreLinq.xml
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Adaptor\AdaptorNoCaching\AdaptorNoCaching\bin\Debug\System.ValueTuple.xml
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Adaptor\AdaptorNoCaching\AdaptorNoCaching\obj\Debug\AdaptorNoCaching.csprojAssemblyReference.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Adaptor\AdaptorNoCaching\AdaptorNoCaching\obj\Debug\AdaptorNoCaching.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Adaptor\AdaptorNoCaching\AdaptorNoCaching\obj\Debug\AdaptorNoCaching.csproj.CopyComplete
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Adaptor\AdaptorNoCaching\AdaptorNoCaching\obj\Debug\AdaptorNoCaching.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Adaptor\AdaptorNoCaching\AdaptorNoCaching\obj\Debug\AdaptorNoCaching.pdb

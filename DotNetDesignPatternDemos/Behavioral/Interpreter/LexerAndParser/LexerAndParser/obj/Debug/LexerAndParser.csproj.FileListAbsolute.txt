@@ -1,0 +1,7 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Interpreter\LexerAndParser\LexerAndParser\bin\Debug\LexerAndParser.exe.config
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Interpreter\LexerAndParser\LexerAndParser\bin\Debug\LexerAndParser.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Interpreter\LexerAndParser\LexerAndParser\bin\Debug\LexerAndParser.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Interpreter\LexerAndParser\LexerAndParser\obj\Debug\LexerAndParser.csprojAssemblyReference.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Interpreter\LexerAndParser\LexerAndParser\obj\Debug\LexerAndParser.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Interpreter\LexerAndParser\LexerAndParser\obj\Debug\LexerAndParser.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Interpreter\LexerAndParser\LexerAndParser\obj\Debug\LexerAndParser.pdb

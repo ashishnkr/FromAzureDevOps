@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomAggregationDemo", "CustomAggregationDemo\CustomAggregationDemo.csproj", "{64013863-03CC-43FC-9992-7611A86BB3DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64013863-03CC-43FC-9992-7611A86BB3DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64013863-03CC-43FC-9992-7611A86BB3DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64013863-03CC-43FC-9992-7611A86BB3DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64013863-03CC-43FC-9992-7611A86BB3DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0910ADAE-3643-47A6-83A2-F1A010A7D14F}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/ashishworkspace
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CustomAggregationDemo\\CustomAggregationDemo.csproj
+		SccProjectName1 = CustomAggregationDemo
+		SccLocalPath1 = CustomAggregationDemo
+	EndGlobalSection
+EndGlobal

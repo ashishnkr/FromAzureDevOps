@@ -1,0 +1,2 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Iterator\CodingExercise\CodingExercise\obj\Debug\CodingExercise.csprojAssemblyReference.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Iterator\CodingExercise\CodingExercise\obj\Debug\CodingExercise.csproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Flyweight\Users\Users\bin\Debug\Users.exe.config
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Flyweight\Users\Users\bin\Debug\Users.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Flyweight\Users\Users\bin\Debug\Users.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Flyweight\Users\Users\bin\Debug\dotMemory.Unit.dll
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Flyweight\Users\Users\bin\Debug\nunit.framework.dll
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Flyweight\Users\Users\bin\Debug\dotMemory.Unit.xml
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Flyweight\Users\Users\bin\Debug\nunit.framework.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Flyweight\Users\Users\bin\Debug\nunit.framework.xml
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Flyweight\Users\Users\obj\Debug\Users.csprojAssemblyReference.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Flyweight\Users\Users\obj\Debug\Users.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Flyweight\Users\Users\obj\Debug\Users.csproj.CopyComplete
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Flyweight\Users\Users\obj\Debug\Users.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Flyweight\Users\Users\obj\Debug\Users.pdb

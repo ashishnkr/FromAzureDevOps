@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingExercise", "CodingExercise\CodingExercise.csproj", "{B4398ED0-4610-496D-BB29-1B1AF2B01B4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4398ED0-4610-496D-BB29-1B1AF2B01B4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4398ED0-4610-496D-BB29-1B1AF2B01B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4398ED0-4610-496D-BB29-1B1AF2B01B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4398ED0-4610-496D-BB29-1B1AF2B01B4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF8279FF-9824-4DF5-944B-FE176038A440}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/ashishworkspace
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CodingExercise\\CodingExercise.csproj
+		SccProjectName1 = CodingExercise
+		SccLocalPath1 = CodingExercise
+	EndGlobalSection
+EndGlobal

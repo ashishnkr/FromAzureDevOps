@@ -1,0 +1,6 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Creational\Singleton\SingletonMonostate\SingletonMonostate\bin\Debug\SingletonMonostate.exe.config
+D:\VSWorkspace\DotNetDesignPatternDemos\Creational\Singleton\SingletonMonostate\SingletonMonostate\bin\Debug\SingletonMonostate.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Creational\Singleton\SingletonMonostate\SingletonMonostate\bin\Debug\SingletonMonostate.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Creational\Singleton\SingletonMonostate\SingletonMonostate\obj\Debug\SingletonMonostate.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Creational\Singleton\SingletonMonostate\SingletonMonostate\obj\Debug\SingletonMonostate.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Creational\Singleton\SingletonMonostate\SingletonMonostate\obj\Debug\SingletonMonostate.pdb

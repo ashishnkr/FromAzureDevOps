@@ -1,0 +1,12 @@
+D:\VSWorkspace\WPFMVVM-StarterCode-master\ZzaDashboard\Zza.Data\bin\Debug\Zza.Data.dll.config
+D:\VSWorkspace\WPFMVVM-StarterCode-master\ZzaDashboard\Zza.Data\bin\Debug\Zza.Data.dll
+D:\VSWorkspace\WPFMVVM-StarterCode-master\ZzaDashboard\Zza.Data\bin\Debug\Zza.Data.pdb
+D:\VSWorkspace\WPFMVVM-StarterCode-master\ZzaDashboard\Zza.Data\bin\Debug\EntityFramework.dll
+D:\VSWorkspace\WPFMVVM-StarterCode-master\ZzaDashboard\Zza.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\VSWorkspace\WPFMVVM-StarterCode-master\ZzaDashboard\Zza.Data\bin\Debug\EntityFramework.xml
+D:\VSWorkspace\WPFMVVM-StarterCode-master\ZzaDashboard\Zza.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\VSWorkspace\WPFMVVM-StarterCode-master\ZzaDashboard\Zza.Data\obj\Debug\Zza.Data.csprojAssemblyReference.cache
+D:\VSWorkspace\WPFMVVM-StarterCode-master\ZzaDashboard\Zza.Data\obj\Debug\Zza.Data.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\WPFMVVM-StarterCode-master\ZzaDashboard\Zza.Data\obj\Debug\Zza.Data.csproj.CopyComplete
+D:\VSWorkspace\WPFMVVM-StarterCode-master\ZzaDashboard\Zza.Data\obj\Debug\Zza.Data.dll
+D:\VSWorkspace\WPFMVVM-StarterCode-master\ZzaDashboard\Zza.Data\obj\Debug\Zza.Data.pdb

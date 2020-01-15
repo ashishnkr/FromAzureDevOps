@@ -1,0 +1,7 @@
+D:\VSWorkspace\InterfacesTutorial\InterfacesTutorial\bin\Debug\InterfacesTutorial.exe.config
+D:\VSWorkspace\InterfacesTutorial\InterfacesTutorial\bin\Debug\InterfacesTutorial.exe
+D:\VSWorkspace\InterfacesTutorial\InterfacesTutorial\bin\Debug\InterfacesTutorial.pdb
+D:\VSWorkspace\InterfacesTutorial\InterfacesTutorial\obj\Debug\InterfacesTutorial.csprojAssemblyReference.cache
+D:\VSWorkspace\InterfacesTutorial\InterfacesTutorial\obj\Debug\InterfacesTutorial.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\InterfacesTutorial\InterfacesTutorial\obj\Debug\InterfacesTutorial.exe
+D:\VSWorkspace\InterfacesTutorial\InterfacesTutorial\obj\Debug\InterfacesTutorial.pdb

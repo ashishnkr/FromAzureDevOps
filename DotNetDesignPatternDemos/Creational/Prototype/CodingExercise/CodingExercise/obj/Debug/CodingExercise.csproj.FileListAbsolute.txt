@@ -1,0 +1,7 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Creational\Prototype\CodingExercise\CodingExercise\bin\Debug\CodingExercise.exe.config
+D:\VSWorkspace\DotNetDesignPatternDemos\Creational\Prototype\CodingExercise\CodingExercise\bin\Debug\CodingExercise.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Creational\Prototype\CodingExercise\CodingExercise\bin\Debug\CodingExercise.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Creational\Prototype\CodingExercise\CodingExercise\obj\Debug\CodingExercise.csprojAssemblyReference.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Creational\Prototype\CodingExercise\CodingExercise\obj\Debug\CodingExercise.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Creational\Prototype\CodingExercise\CodingExercise\obj\Debug\CodingExercise.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Creational\Prototype\CodingExercise\CodingExercise\obj\Debug\CodingExercise.pdb

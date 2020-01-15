@@ -1,0 +1,6 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Decorator\DynamicDecorator\DynamicDecorator\bin\Debug\DynamicDecorator.exe.config
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Decorator\DynamicDecorator\DynamicDecorator\bin\Debug\DynamicDecorator.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Decorator\DynamicDecorator\DynamicDecorator\bin\Debug\DynamicDecorator.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Decorator\DynamicDecorator\DynamicDecorator\obj\Debug\DynamicDecorator.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Decorator\DynamicDecorator\DynamicDecorator\obj\Debug\DynamicDecorator.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Decorator\DynamicDecorator\DynamicDecorator\obj\Debug\DynamicDecorator.pdb

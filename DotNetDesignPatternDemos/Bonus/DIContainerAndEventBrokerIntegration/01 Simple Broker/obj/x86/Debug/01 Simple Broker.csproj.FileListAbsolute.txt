@@ -1,0 +1,10 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Bonus\DIContainerAndEventBrokerIntegration\01 Simple Broker\bin\Debug\01 Simple Broker.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Bonus\DIContainerAndEventBrokerIntegration\01 Simple Broker\bin\Debug\01 Simple Broker.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Bonus\DIContainerAndEventBrokerIntegration\01 Simple Broker\bin\Debug\PowerCollections.dll
+D:\VSWorkspace\DotNetDesignPatternDemos\Bonus\DIContainerAndEventBrokerIntegration\01 Simple Broker\bin\Debug\Unity.dll
+D:\VSWorkspace\DotNetDesignPatternDemos\Bonus\DIContainerAndEventBrokerIntegration\01 Simple Broker\bin\Debug\PowerCollections.xml
+D:\VSWorkspace\DotNetDesignPatternDemos\Bonus\DIContainerAndEventBrokerIntegration\01 Simple Broker\obj\x86\Debug\01 Simple Broker.csprojAssemblyReference.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Bonus\DIContainerAndEventBrokerIntegration\01 Simple Broker\obj\x86\Debug\01 Simple Broker.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Bonus\DIContainerAndEventBrokerIntegration\01 Simple Broker\obj\x86\Debug\01 Simple Broker.csproj.CopyComplete
+D:\VSWorkspace\DotNetDesignPatternDemos\Bonus\DIContainerAndEventBrokerIntegration\01 Simple Broker\obj\x86\Debug\01 Simple Broker.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Bonus\DIContainerAndEventBrokerIntegration\01 Simple Broker\obj\x86\Debug\01 Simple Broker.pdb

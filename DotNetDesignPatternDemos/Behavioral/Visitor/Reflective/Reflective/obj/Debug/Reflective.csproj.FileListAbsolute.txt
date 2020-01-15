@@ -1,0 +1,6 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Visitor\Reflective\Reflective\bin\Debug\Reflective.exe.config
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Visitor\Reflective\Reflective\bin\Debug\Reflective.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Visitor\Reflective\Reflective\bin\Debug\Reflective.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Visitor\Reflective\Reflective\obj\Debug\Reflective.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Visitor\Reflective\Reflective\obj\Debug\Reflective.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Visitor\Reflective\Reflective\obj\Debug\Reflective.pdb

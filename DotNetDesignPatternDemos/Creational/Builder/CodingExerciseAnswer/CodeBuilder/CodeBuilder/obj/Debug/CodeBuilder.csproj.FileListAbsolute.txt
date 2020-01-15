@@ -1,0 +1,2 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Creational\Builder\CodingExerciseAnswer\CodeBuilder\CodeBuilder\obj\Debug\CodeBuilder.csprojAssemblyReference.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Creational\Builder\CodingExerciseAnswer\CodeBuilder\CodeBuilder\obj\Debug\CodeBuilder.csproj.CoreCompileInputs.cache

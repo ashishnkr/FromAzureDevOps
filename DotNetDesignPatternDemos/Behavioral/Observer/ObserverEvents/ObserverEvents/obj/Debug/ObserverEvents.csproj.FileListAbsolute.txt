@@ -1,0 +1,7 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Observer\ObserverEvents\ObserverEvents\bin\Debug\ObserverEvents.exe.config
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Observer\ObserverEvents\ObserverEvents\bin\Debug\ObserverEvents.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Observer\ObserverEvents\ObserverEvents\bin\Debug\ObserverEvents.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Observer\ObserverEvents\ObserverEvents\obj\Debug\ObserverEvents.csprojAssemblyReference.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Observer\ObserverEvents\ObserverEvents\obj\Debug\ObserverEvents.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Observer\ObserverEvents\ObserverEvents\obj\Debug\ObserverEvents.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Observer\ObserverEvents\ObserverEvents\obj\Debug\ObserverEvents.pdb

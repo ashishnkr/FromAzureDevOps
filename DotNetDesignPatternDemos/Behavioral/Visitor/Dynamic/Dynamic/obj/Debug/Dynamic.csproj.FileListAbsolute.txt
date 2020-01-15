@@ -1,0 +1,6 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Visitor\Dynamic\Dynamic\bin\Debug\Dynamic.exe.config
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Visitor\Dynamic\Dynamic\bin\Debug\Dynamic.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Visitor\Dynamic\Dynamic\bin\Debug\Dynamic.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Visitor\Dynamic\Dynamic\obj\Debug\Dynamic.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Visitor\Dynamic\Dynamic\obj\Debug\Dynamic.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Visitor\Dynamic\Dynamic\obj\Debug\Dynamic.pdb

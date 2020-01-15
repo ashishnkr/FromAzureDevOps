@@ -1,0 +1,1 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Bonus\LocalInversionOfControl\LocalInversionOfControl\obj\Debug\LocalInversionOfControl.csproj.CoreCompileInputs.cache

@@ -1,0 +1,2 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Composite\Exercise\Exercise\obj\Debug\Exercise.csprojAssemblyReference.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Composite\Exercise\Exercise\obj\Debug\Exercise.csproj.CoreCompileInputs.cache

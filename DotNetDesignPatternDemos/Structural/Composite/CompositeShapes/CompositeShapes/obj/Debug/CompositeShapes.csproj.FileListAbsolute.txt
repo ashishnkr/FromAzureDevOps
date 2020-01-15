@@ -1,0 +1,7 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Composite\CompositeShapes\CompositeShapes\bin\Debug\CompositeShapes.exe.config
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Composite\CompositeShapes\CompositeShapes\bin\Debug\CompositeShapes.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Composite\CompositeShapes\CompositeShapes\bin\Debug\CompositeShapes.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Composite\CompositeShapes\CompositeShapes\obj\Debug\CompositeShapes.csprojAssemblyReference.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Composite\CompositeShapes\CompositeShapes\obj\Debug\CompositeShapes.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Composite\CompositeShapes\CompositeShapes\obj\Debug\CompositeShapes.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Structural\Composite\CompositeShapes\CompositeShapes\obj\Debug\CompositeShapes.pdb

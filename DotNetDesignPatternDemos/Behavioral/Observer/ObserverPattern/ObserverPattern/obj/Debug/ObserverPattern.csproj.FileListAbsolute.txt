@@ -1,0 +1,1 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\Observer\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\ChainOfResponsibility\PurchaseExample\PurchaseExample\bin\Debug\PurchaseExample.exe.config
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\ChainOfResponsibility\PurchaseExample\PurchaseExample\bin\Debug\PurchaseExample.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\ChainOfResponsibility\PurchaseExample\PurchaseExample\bin\Debug\PurchaseExample.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\ChainOfResponsibility\PurchaseExample\PurchaseExample\obj\Debug\PurchaseExample.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\ChainOfResponsibility\PurchaseExample\PurchaseExample\obj\Debug\PurchaseExample.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Behavioral\ChainOfResponsibility\PurchaseExample\PurchaseExample\obj\Debug\PurchaseExample.pdb

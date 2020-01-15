@@ -1,0 +1,7 @@
+D:\VSWorkspace\DotNetDesignPatternDemos\Creational\Factory\FactoryMethod\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+D:\VSWorkspace\DotNetDesignPatternDemos\Creational\Factory\FactoryMethod\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Creational\Factory\FactoryMethod\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.pdb
+D:\VSWorkspace\DotNetDesignPatternDemos\Creational\Factory\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csprojAssemblyReference.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Creational\Factory\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+D:\VSWorkspace\DotNetDesignPatternDemos\Creational\Factory\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.exe
+D:\VSWorkspace\DotNetDesignPatternDemos\Creational\Factory\FactoryMethod\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.pdb
