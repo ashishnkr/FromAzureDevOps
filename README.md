@@ -6,4 +6,6 @@ All Folders inside repository represents different topics usually indicated by t
 
 Use Visual Studio 2019 to open any solution inside this repository. Projects were created on different versions of Visual Studio over the time. Hence, VS 2019 will take care of back compatibility.
 
+Check the DotNetDesignPatternDemos directory which is an extension to another Github Repository and the content of this repository has many advanced implementation.
+
 FromAzure\WPF_MVVM_PROJ\ZzaDashboard contains the starter code for course on Pluralsight WPF MVVM in Depth by Brian Noyes. (http://www.pluralsight.com/courses/wpf-mvvm-in-depth)
